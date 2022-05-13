@@ -1,0 +1,20 @@
+item { 
+	name:'absolutely'
+	id:1
+}
+item { 
+	name:'yes'
+	id:2
+}
+item { 
+	name:'maybe'
+	id:3
+}
+item { 
+	name:'no'
+	id:4
+}
+item { 
+	name:'never'
+	id:5
+}
