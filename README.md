@@ -10,7 +10,7 @@ The project does the following:
 * Modifies the MobileNet model(Transfer learning).
 * Train the Model.
 * Detect in real time.
-![Example Image](https://www.overleaf.com/project/61fdab03f9894351e8406074)
+![Example Image](SM395:/Users/musab/Downloads/object detection-yy.png)
 
 ## Installation
 1. Clone this project
