@@ -16,6 +16,6 @@ The project does the following:
 1. Clone this project
 2. Follow the instructions here to install the Tensorflow Object Detection API and the pre-trained model - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 3. Clone the labelImg repository - https://github.com/heartexlabs/labelImg
-4. Follow the instructions in the jupyter notebooks **Data collector.ipynb** to capture images and **Object Detector.ipynb** to train your model. 
+4. Follow the instructions in the jupyter notebooks *Data collector.ipynb* to capture images and *Object Detector.ipynb* to train your model. 
  
 
