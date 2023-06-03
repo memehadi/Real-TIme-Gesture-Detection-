@@ -9,9 +9,10 @@ The project does the following:
 * Generates Tensorflow Records.
 * Modifies the MobileNet model(Transfer learning).
 * Train the Model.
-* Detect in real time.
+* Detect in real time.<br />
  <img src="./Assets/object-detection-yy.png" width=300>  <img src="./Assets/object-detection-al.png" width=300>  <img src="./Assets/object-detection-ner.png" width=300>
-  <img src="./Assets/object-detection-nel.png" width=300>  <img src="./Assets/object-detection-mr.png" width=300>  <img src="./Assets/object-detection-nr.png" width=300>
+ <img src="./Assets/object-detection-nel.png" width=300>  <img src="./Assets/object-detection-mr.png" width=300>  <img src="./Assets/object-detection-nr.png" width=300>
+<br />
 ## Installation
 1. Clone this project
 2. Follow the instructions here to install the Tensorflow Object Detection API and the pre-trained model - https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
